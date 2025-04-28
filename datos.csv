@@ -1,0 +1,11 @@
+id,edad,salario,nivel_estudios,experiencia_anios
+1,25,45000,Licenciatura,2
+2,30,58000,Maestría,5
+3,22,38000,Secundario,1
+4,28,52000,Licenciatura,3
+5,35,68000,Doctorado,8
+6,24,42000,Licenciatura,2
+7,40,75000,Maestría,12
+8,29,50000,Licenciatura,4
+9,23,39000,Secundario,1
+10,32,61000,Maestría,6

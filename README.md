@@ -3,7 +3,7 @@
 ## Autor
 **Walter Manuel Lannot**
 
-Estudiante de Licenciatura en Ciencia de Datos en Universidad Siglo 21. Apasionado por la ingeniería de datos, el aprendizaje automático y la innovación tecnológica. Con experiencia práctica en recursos humanos, gestión de servidores y análisis de datos.
+Estudiante de Licenciatura en Ciencia de Datos en Universidad Siglo 21, centrado en la ingeniería de datos, el aprendizaje automático y la innovación tecnológica. Con experiencia práctica en recursos humanos, gestión de servidores y análisis de datos.
 
 [LinkedIn](https://www.linkedin.com/in/walterlannot) | [GitHub](https://github.com/walterlannot)
 
